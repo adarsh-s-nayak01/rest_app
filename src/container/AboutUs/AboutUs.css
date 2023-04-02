@@ -63,7 +63,7 @@
     .app__aboutus-content_about p,
     .app__aboutus-content_history p{
     margin: 4rem 0;
-}
+    }
 }
 
 @media screen and (max-width:900px){
